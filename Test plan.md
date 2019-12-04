@@ -18,8 +18,8 @@ Test object includes functional requirements, convenience and ease of use. The q
 Device must have keybord, mouse(or touchpad), .NET 4.7.2 for correct application operation.
  ## 4. Test aspects
 During the testing process it`s expected to check the compliance of the requirements on the basis of which it was designed and realised. Compliance requirements:
-1.	List of units and military personnel of a military unit.save scraped data in pdf;
-2.	The ability to add and remove military personnel and units.save scraped data in doc;
+1.	List of units and military personnel of a military unit.
+2.	The ability to add and remove military personnel and units.
 Must check other requirements:
 1.	Simplicity. To use the application, it will be enough to own a school course in computer science.
 2.	 Adding data on a soldier or unit in the database in 3 clicks.
